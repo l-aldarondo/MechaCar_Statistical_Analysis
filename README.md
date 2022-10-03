@@ -143,7 +143,7 @@ Q1.The design specifications for the MechaCar suspension coils dictate that the 
 
 - Q3. What statistical test would you use to test the hypothesis? And why?
 
-- A3. Since a car manufacturer may have multiple competitiors we are going to use an **two way ANOVA test**; to determine if there a statistical difference between the distribution means from multiple samples.
+- A3. Since a car manufacturer may have multiple competitiors, we are interested in comparing the means across more than two samples or groups. The most straightforward way to do this is to use the analysis of variance (ANOVA) test, which is used to compare the means of a continuous numerical variable across a number of groups. In this case we're going to use a **two way ANOVA test**; to determine if there a statistical difference between the distribution means from multiple samples.
 
 - Q4. What data is needed to run the statistical test?
 
