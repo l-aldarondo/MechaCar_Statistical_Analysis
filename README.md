@@ -31,17 +31,6 @@ In this project, we helped the data analytics team do the following:
 
 -Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
-## Methodology
-
-- Used Pandas to convert "tripduration" column to a datetime datatype and maked sure had the correct time format.
-
-- Used Tableau, to create visualizations that showed:
-
-  - How long bikes are checked out for all riders and genders.
-  
-  - How many trips are taken by the hour for each day of the week, for all riders and genders.
-  
-  - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
   
 ## Resources
 
@@ -82,7 +71,7 @@ Software:
 
     - Methodology: Examine the multiple R-squared to indicate how well the regression model approximate to rea-world data points. In most caese, the value will range between o and 1 and can be use as probability metric to determine the likelihood that future data point will fit the model.
 
-    -A3. **The Multiple R-squared value is 0.71**, while the p-value remained significant (very small). **Indicating that the model does an adequate job predicting mpg**.
+    - A3. **The Multiple R-squared value is 0.71**, while the p-value remained significant (very small). **Indicating that the model does an adequate job predicting mpg**.
 
 <br/>
 
