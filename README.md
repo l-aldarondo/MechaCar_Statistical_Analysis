@@ -154,11 +154,8 @@ Q1.The design specifications for the MechaCar suspension coils dictate that the 
 
 ## Summary
 
-- A1: Bikes are checkout (on average) 6-7 minutes.
-
-- A2: Bikes trips vary by hour of the day with peak hours at 5-6 pm and 7 am.
-
-- A3: Bikes trips are more popular during Thursdays and Fridays for all users regardless of gender. Customers had a higher rate of bike trips during the weekends compared to weekdays.
+For this project we were able to use R, RStudio and VS Code to complete all the deliverable requested by the client:
+- D1: Linear Regression to Predict MPG, D2: Summary Statistics on Suspension Coils, D3: T-Test on Suspension Coils, D4: Design a Study Comparing the MechaCar to the Competition.
 
 
 
