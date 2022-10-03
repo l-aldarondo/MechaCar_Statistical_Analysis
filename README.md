@@ -132,7 +132,7 @@ Q1.The design specifications for the MechaCar suspension coils dictate that the 
 
 - Q1. What metric or metrics are you going to test?
 
-- A1. An additional metric not in the MechaCar_mpg dataset are horsepower, engine size or number of cylinders. Manufacturers may look into thsi since is usually noted that smaller engine size (8 cyl vs 6 cyl vs 4 cyl) result in improved mpg.
+- A1. An additional metric not in the MechaCar_mpg dataset are horsepower, engine size or number of cylinders. Manufacturers may look into this data, since is usually noted that smaller engine size (8 cyl vs 6 cyl vs 4 cyl) result in improved mpg.
 
 - Q2. What is the null hypothesis or alternative hypothesis?
 
